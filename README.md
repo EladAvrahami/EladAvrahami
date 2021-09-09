@@ -2,7 +2,7 @@
 ### I'm Elad Avrahami, Java Full Stack Developer :computer: 
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
 
-## :heart: Let's get connected: :
+## :heart: Let's get connected:
 <a href="https://www.linkedin.com/in/elad-avrahami81" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![Instagram Badge](https://img.shields.io/badge/-@elad.avrahami-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/elad.avrahami/)](https://instagram.com/jlim_slam)
