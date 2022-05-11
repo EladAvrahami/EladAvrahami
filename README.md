@@ -4,11 +4,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=010405&size=26&center=true&vCenter=true&height=30&lines=Full+Stack+Developer;Java+developer;+React+Developer+;+UI+designer;Web+Developer)](https://git.io/typing-svg) 
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
 
-## :heart: Let's get connected:
-<a href="https://www.linkedin.com/in/elad-avrahami81" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[![Instagram Badge](https://img.shields.io/badge/-@elad.avrahami-broun?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/elad.avrahami/)](https://www.instagram.com/elad.avrahami/)
-
 
 
 ## :hammer_and_wrench: Technologies and Tools I use:
@@ -30,3 +25,7 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/>
  <br/>
 
+## :heart: Let's get connected:
+<a href="https://www.linkedin.com/in/elad-avrahami81" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[![Instagram Badge](https://img.shields.io/badge/-@elad.avrahami-broun?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/elad.avrahami/)](https://www.instagram.com/elad.avrahami/)
