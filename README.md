@@ -33,7 +33,15 @@
 <!-- https://opensource.guide/metrics/ -->
 
 
-<!-- when My code is ready to be pushed !
+<!--
+ Working with your repository:
+
+*******I just want to clone this repository*******
+If you want to simply clone this empty repository then run this command in your terminal.
+
+git clone ssh://git@git.blabla.bla:7999/m10105fk/bla.git
+
+******* when My code is ready to be pushed ! *******
 If you already have code ready to be pushed to this repository then run this in your terminal.
 
 cd existing-project
@@ -41,4 +49,13 @@ git init
 git add --all
 git commit -m "Initial Commit"
 git remote add origin ssh://git@git.blabla:8080/m10105hi/bla.git
-git push -u origin HEAD:master -->
+git push -u origin HEAD:master 
+
+*****My code is already tracked by Git******
+If your code is already tracked by Git then set this repository as your "origin" to push to.
+
+cd existing-project
+git remote set-url origin ssh://git@git.devops.poalim.bank:7999/m10105hi/bla.git
+git push -u origin --all
+git push origin --tags
+-->
