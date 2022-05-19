@@ -31,3 +31,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-@elad.avrahami-broun?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/elad.avrahami/)](https://www.instagram.com/elad.avrahami/)
 
 <!-- https://opensource.guide/metrics/ -->
+
+
+<!-- when My code is ready to be pushed !
+If you already have code ready to be pushed to this repository then run this in your terminal.
+
+cd existing-project
+git init
+git add --all
+git commit -m "Initial Commit"
+git remote add origin ssh://git@git.blabla:8080/m10105hi/bla.git
+git push -u origin HEAD:master -->
