@@ -59,4 +59,4 @@ git remote set-url origin ssh://git@git.devops.poalim.bank:7999/m10105hi/bla.git
 git push -u origin --all
 git push origin --tags
 -->
-<!-- https://www.youtube.com/watch?v=6rGMvws--kk  intellji+git -->
+<!-- [https://www.youtube.com/watch?v=6rGMvws--kk](https://www.youtube.com/c/MarcoBehler/search?query=Git%20for%20the%20scared)  intellji+git -->
