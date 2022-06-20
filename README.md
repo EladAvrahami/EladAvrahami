@@ -26,7 +26,8 @@
  <img src="https://jenkins.io/sites/default/files/jenkins_logo.png" width="85" height="30"/>
  <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="35" height="30">
  <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="35" height="30">
- //https://avatars.githubusercontent.com/u/1529926?s=200&v=4
+ <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="35" height="30">
+
  
  <br/>
 
