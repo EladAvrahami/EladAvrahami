@@ -25,6 +25,8 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/>
  <img src="https://jenkins.io/sites/default/files/jenkins_logo.png" width="85" height="30"/>
  <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="35" height="30">
+ <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="35" height="30">
+ 
  <br/>
 
 ## :heart: Let's get connected:
