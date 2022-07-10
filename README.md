@@ -1,3 +1,5 @@
+<!-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch#conditional_catch-blocks -->
+
 <span></span> 
 ###  Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 ### I'm Elad Avrahami
