@@ -30,7 +30,7 @@
  <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="35" height="30">
  <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="35" height="30">
 <img src="https://expressjs.com/images/express-facebook-share.png" width="75" height="25">
- <img src="https://miro.medium.com/max/300/1*iHB6hDMaW48VjTbsjyhbzg.png" width="35" height="30">
+ <img src="https://miro.medium.com/max/300/1*iHB6hDMaW48VjTbsjyhbzg.png" width="30" height="25">
 
  
  <br/>
