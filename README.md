@@ -31,9 +31,8 @@
  <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="35" height="30">
 <img src="https://expressjs.com/images/express-facebook-share.png" width="75" height="25">
  <img src="https://miro.medium.com/max/300/1*iHB6hDMaW48VjTbsjyhbzg.png" width="30" height="25">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" alt="" width="60" height="25"> 
-  
-
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" alt="" width="60" height="25"> 
+  <img src="https://icon-library.com/images/icon-linux/icon-linux-11.jpg" alt="" width="40" height="30">
  
  <br/>
 
