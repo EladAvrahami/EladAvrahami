@@ -4,7 +4,7 @@
 ###  Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 ### I'm Elad Avrahami
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=010405&size=26&center=true&vCenter=true&height=30&lines=Full+Stack+Developer;Java+developer;+React+Developer+;+Node.js+Developer;Web+Developer)](https://git.io/typing-svg) 
-   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
+   <!--<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">-->
    
    ### 💼 I currently working as Full-Stack & Integration Developer in the financial industry
    
