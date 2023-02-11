@@ -61,27 +61,9 @@
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eladavrahami&theme=radical&no-frame=false&no-bg=true&margin-w=6)-->
+<a href="https://github.com/tomondre"><img src="https://raw.githubusercontent.com/EladAvrahami/tondrejk/main/contributions.svg"></a>
 
-
-<img width="100%" src="https://github.com/tondrejk/tondrejk/blob/main/contributions.svg" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- <img width="10%" src="https://visitor-badge.glitch.me/badge?page_id=EladAvrahami.EladAvrahami" />  -->
 
 
 
