@@ -8,6 +8,9 @@
    <!--<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">-->
    
    ### 💼 I currently working as Full-Stack & Integration Developer in the financial industry
+   ### 🤖 Passionate about innovation and robotics. Currently expanding my skillset with C++,Python ,and ROS 🚀
+   ### 💻 With 2 years of programming experience in Java and Node.js  #CodeLife
+   
    
    # 💻 Tech Stack:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
