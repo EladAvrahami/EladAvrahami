@@ -11,7 +11,7 @@
    ### 🤖 Passionate about innovation and robotics. Currently expanding my skillset
    ###      with C++,Python ,and ROS 🚀.
    ### 💻 With 2 years of programming experience in Java and Node.js.
-   ### 😁 I'm eager to dive deeper into cutting-edge technology. #CodeLife
+   ### 😁 I'm always eager to dive deeper into cutting-edge technology. #CodeLife
    
    
    # 💻 Tech Stack:
