@@ -6,10 +6,10 @@
 ### I'm Elad Avrahami
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=010405&size=26&center=true&vCenter=true&height=30&lines=Full+Stack+Developer;Java+developer;+Cpp+Developer;+React+Developer+;+Node.js+Developer;Web+Developer)](https://git.io/typing-svg) 
    <!--<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">-->
-   
-   ### 💼 I currently working as Full-Stack & Integration Developer in the financial industry .
+
+   ### 👨‍🎓 I am currently an Electrical & Electronics Engineering Student .⚡🔌
+   ### 💼💻 With 2 years of programming experience in Java and Node.js working as Full-Stack & Integration Developer in the financial industry .
    ### 🤖 Passionate about innovation and robotics. Currently expanding my skillset with C++,Python ,and ROS . 🚀
-   ### 💻 With 2 years of programming experience in Java and Node.js .
    ### 😁 I'm always eager to dive deeper into cutting-edge technology . 
    
    
