@@ -8,7 +8,7 @@
    <!--<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">-->
 
    ### 👨‍🎓 I am currently an Electrical & Electronics Engineering Student .⚡🔌
-   ### 💼💻 With 2 years of programming experience in Java and Node.js working as Full-Stack & Integration Developer in the financial industry .
+   ### 💼💻 With years of programming experience in Java and Node.js working as Full-Stack & Integration Developer in the financial industry .
    ### 🤖 Passionate about innovation and robotics. Currently expanding my skillset with C++,Python ,and ROS . 🚀
    ### 😁 I'm always eager to dive deeper into cutting-edge technology . 
    
