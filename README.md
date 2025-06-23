@@ -9,7 +9,7 @@
 
    ### 👨‍🎓 I am currently an Electrical & Electronics Engineering Student .⚡🔌
    ### 💼💻 With years of programming experience in Java and Node.js working as Full-Stack & Integration Developer in the financial industry .
-   ### 🤖 Passionate about innovation and robotics. Currently expanding my skillset with C++,Python ,and ROS . 🚀
+   ### 🤖 Passionate about innovation and robotics. Currently expanding my skillset with C++,Python,AI and ROS . 🚀
    ### 😁 I'm always eager to dive deeper into cutting-edge technology . 
    
    
